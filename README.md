@@ -1,15 +1,13 @@
-# Eshop page
+# Simple ecommerce web app
 
-Simple ecommerce website made with React Hooks and Redux.
-
-## Libraries used
+## Libraries  
 
 - React with Hooks, Redux, Redux Thunk
 - React Bootstrap with Cosmo theme
 - React Infinite Scroller, React Image Magnify, React Google Login, React Container Dimensions
 - Axios, Axios Mock Adapter, Formik, Faker
 
-## Installation and running
+## How to run  
 
 - `npm install`
 - `npm start` app wil be loaded on `http://localhost:3000`
